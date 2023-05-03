@@ -2,7 +2,7 @@
 - I am currently working as a Portuguese and Spanish language teacher
 - I'm learning JS and HTML
 - Pronouns: she/she
-- 
+
 ##
 
 <div align="center">
